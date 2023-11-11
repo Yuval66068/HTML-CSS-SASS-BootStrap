@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+
+}
+
+.whawsapp{
+    background-color: #FDBD03;
+    position: absolute;
+    width: 54px;
+    height: 54px;
+}
+
+img{
+    position: absolute;
+    top: 138px;
+    left: 700px;
+    width: 400px;
+    height: 600px;
+}
+
